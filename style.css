@@ -49,4 +49,22 @@
 
 .imagem-banner{
     width: 100%;
+    border-bottom: 3px solid #6b705b;
+}
+
+.titulo-cardapio{
+    margin-top: 50px;
+    font-family: 'Cookie';
+    font-weight: normal;
+    font-size: 45px;
+    color: black;
+    text-align: center;
+}
+
+.lista-cardapio{
+    column-count: 4;
+    /*column-gap: 100px; */
+    padding: 68px;
+    font-family: 'Roboto';
+    color: #6B705C;
 }
